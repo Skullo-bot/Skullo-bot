@@ -64,9 +64,9 @@ I'm a passionate Information Technology student focused on building scalable ful
 ## Contribution 
 
 <picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Skullo-bot/Skullo-bot/pacman-output/puzzle-bobble-contribution-graph-dark.svg?game=puzzle-bobble">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Skullo-bot/Skullo-bot/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Skullo-bot/Skullo-bot/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Skullo-bot/Skullo-bot/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Skullo-bot/Skullo-bot/pacman-output/galaga-contribution-graph.svg?game=galaga">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Skullo-bot/Skullo-bot/pacman-output/galaga-contribution-graph.svg?game=galaga">
 </picture>
 
 ## 📊 GitHub Stats
