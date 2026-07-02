@@ -61,25 +61,23 @@ I'm a passionate Information Technology student focused on building scalable ful
 | 🏡 **[Ames Housing – Advanced Regression](https://github.com/Skullo-bot/ames-housing-advanced-regression)** | End-to-end ML pipeline using a **Stacking Ensemble Regressor** (XGBoost, Gradient Boosting, Ridge) to predict real estate prices, complete with structural validation and diagnostic charts. |
 
 
-## 🐍 Contribution Snake
+## Contribution 
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Skullo-bot/Skullo-bot/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Skullo-bot/Skullo-bot/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Skullo-bot/Skullo-bot/output/github-contribution-grid-snake.svg" width="100%" />
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Skullo-bot/Skullo-bot/pacman-output/puzzle-bobble-contribution-graph-dark.svg?game=puzzle-bobble">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Skullo-bot/Skullo-bot/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Skullo-bot/Skullo-bot/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
 </picture>
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Skullo-bot/Skullo-bot/main/profile/stats.svg" alt="Skullo-bot's GitHub Stats" height="180" />
-  <img src="https://raw.githubusercontent.com/Skullo-bot/Skullo-bot/main/profile/top-langs.svg" alt="Top Languages" height="180" />
-</p>
+![](https://github-readme-stats.shion.dev/api?username=Skullo-bot&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Skullo-bot&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Skullo-bot&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Skullo-bot&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+---
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 ## 📫 Connect with Me
 
 <p align="left">
@@ -100,3 +98,4 @@ I'm a passionate Information Technology student focused on building scalable ful
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,100:fe428e&height=100&section=footer" width="100%" alt="footer banner"/>
 
 </div>
+
