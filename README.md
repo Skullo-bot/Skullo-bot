@@ -1,4 +1,5 @@
 # 👋 Hi there, I'm Fadhil Abithyasa Effendi!
+
 **Information Technology Student at Telkom University | Full-Stack Developer & Data Science Enthusiast**
 
 I am a passionate technology student focused on building scalable full-stack applications and engineering predictive machine learning pipelines. I enjoy bridging the gap between clean code architecture and advanced data diagnostics to solve real-world problems.
@@ -6,6 +7,7 @@ I am a passionate technology student focused on building scalable full-stack app
 ---
 
 ### 🚀 What I Do
+
 * **Backend & Web Development:** Designing robust architectures using **Laravel (PHP)**, **Spring Boot (Java)**, and modern interactive frontends with **Vue.js (Inertia.js)**.
 * **Mobile Development:** Crafting seamless cross-platform mobile experiences utilizing **Flutter (Dart)**.
 * **Data Science & Big Data:** Developing predictive algorithms and manipulating large-scale datasets using **Python**, **PySpark**, and **Databricks**.
@@ -20,12 +22,17 @@ I am a passionate technology student focused on building scalable full-stack app
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-  <br>
+  <br/>
   <!-- Frameworks -->
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <br/>
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" alt="PySpark" />
+  <img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white" alt="Databricks" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
@@ -40,9 +47,25 @@ I am a passionate technology student focused on building scalable full-stack app
 
 ### 📊 GitHub Stats
 
-![Skullo-bot's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skullo-bot&show_icons=true&theme=radical)
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Skullo-bot&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=21600"
+    alt="Skullo-bot's GitHub stats"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=Skullo-bot&layout=compact&theme=radical&cache_seconds=21600&langs_count=8"
+    alt="Top Languages"
+    height="180"
+  />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Skullo-bot&layout=compact&theme=radical)
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Skullo-bot&theme=radical"
+    alt="GitHub Streak"
+  />
+</p>
 
 ---
 
