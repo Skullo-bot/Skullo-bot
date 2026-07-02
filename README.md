@@ -40,9 +40,9 @@ I am a passionate technology student focused on building scalable full-stack app
 
 ### 📊 GitHub Stats
 
-[![Skullo-bot's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skullo-bot&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Skullo-bot's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skullo-bot)]
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Skullo-bot&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Skullo-bot&layout=compact&theme=radical)]
 
 ---
 
