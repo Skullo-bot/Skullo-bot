@@ -35,13 +35,19 @@ I am a passionate technology student focused on building scalable full-stack app
 * **🏡 [Ames Housing Advanced Regression](https://github.com/Skullo-bot/ames-housing-advanced-regression):** An advanced end-to-end Machine Learning pipeline utilizing a Stacking Ensemble Regressor (XGBoost, Gradient Boosting, Ridge) to predict real estate prices, complete with structural validation and diagnostic charts.
 
 
-### 📊 GitHub Stats
-
-![Skullo-bot's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Skullo-bot&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Skullo-bot&layout=compact&theme=radical)
-
 ---
+
+### 📊 GitHub Stats & Activity
+
+<p align="left">
+  <!-- GitHub Streak Stats (Menampilkan konsistensi ngoding Anda) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Skullo-bot&theme=radical" alt="Skullo-bot's Streak" />
+</p>
+
+<p align="left">
+  <!-- GitHub Profile Trophies (Menampilkan pencapaian Anda dalam bentuk trofi) -->
+  <img src="https://github-profile-trophies.vercel.app/?username=Skullo-bot&theme=radical&column=4" alt="Skullo-bot's Trophies" />
+</p>
 
 ### 📫 Connect with Me
 
