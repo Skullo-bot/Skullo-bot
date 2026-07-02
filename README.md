@@ -61,11 +61,19 @@ I'm a passionate Information Technology student focused on building scalable ful
 | 🏡 **[Ames Housing – Advanced Regression](https://github.com/Skullo-bot/ames-housing-advanced-regression)** | End-to-end ML pipeline using a **Stacking Ensemble Regressor** (XGBoost, Gradient Boosting, Ridge) to predict real estate prices, complete with structural validation and diagnostic charts. |
 
 
+## 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Skullo-bot/Skullo-bot/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Skullo-bot/Skullo-bot/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Skullo-bot/Skullo-bot/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Skullo-bot&show_icons=true&theme=radical&hide_border=true&cache_seconds=21600" alt="Skullo-bot's GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skullo-bot&layout=compact&theme=radical&hide_border=true&cache_seconds=21600&langs_count=8" alt="Top Languages" height="180" />
+  <img src="https://raw.githubusercontent.com/Skullo-bot/Skullo-bot/main/profile/stats.svg" alt="Skullo-bot's GitHub Stats" height="180" />
+  <img src="https://raw.githubusercontent.com/Skullo-bot/Skullo-bot/main/profile/top-langs.svg" alt="Top Languages" height="180" />
 </p>
 
 <p align="center">
