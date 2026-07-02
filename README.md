@@ -71,14 +71,9 @@ I'm a passionate Information Technology student focused on building scalable ful
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Skullo-bot/Skullo-bot/main/profile/stats.svg" alt="Skullo-bot's GitHub Stats" height="180" />
-  <img src="https://raw.githubusercontent.com/Skullo-bot/Skullo-bot/main/profile/top-langs.svg" alt="Top Languages" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Skullo-bot&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
+![](https://github-readme-stats.shion.dev/api?username=Skullo-bot&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Skullo-bot&theme=midnight-purple&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Skullo-bot&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 📫 Connect with Me
 
