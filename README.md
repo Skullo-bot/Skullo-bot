@@ -33,21 +33,18 @@ I am a passionate technology student focused on building scalable full-stack app
 ### 🌟 Featured Repositories
 
 * **🏡 [Ames Housing Advanced Regression](https://github.com/Skullo-bot/ames-housing-advanced-regression):** An advanced end-to-end Machine Learning pipeline utilizing a Stacking Ensemble Regressor (XGBoost, Gradient Boosting, Ridge) to predict real estate prices, complete with structural validation and diagnostic charts.
-
+* **📦 [Gudang Damar Warehouse Management](https://github.com/Skullo-bot/Gudang-Damar-Aplikasi-Management-Gudang---TUBES-PBO):** A full-stack local web application designed for streamlined inventory control, stock management, and structured logistics tracking.
+* **🔍 [Algorithm Analysis - License Plate Search](https://github.com/Skullo-bot/TUBES-AKA_IF-47-05_Kelompok-apaAdanya):** A core computer science study benchmarking and comparing the execution efficiency of Iterative vs. Recursive algorithms over massive vehicle databases.
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 📊 GitHub Stats
 
-<p align="left">
-  <!-- GitHub Streak Stats (Menampilkan konsistensi ngoding Anda) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Skullo-bot&theme=radical" alt="Skullo-bot's Streak" />
-</p>
+[![Skullo-bot's GitHub stats](https://github-readme-stats.vercel.app/api?username=Skullo-bot&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="left">
-  <!-- GitHub Profile Trophies (Menampilkan pencapaian Anda dalam bentuk trofi) -->
-  <img src="https://github-profile-trophies.vercel.app/?username=Skullo-bot&theme=radical&column=4" alt="Skullo-bot's Trophies" />
-</p>
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Skullo-bot&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 ### 📫 Connect with Me
 
