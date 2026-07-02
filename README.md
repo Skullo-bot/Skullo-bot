@@ -59,8 +59,7 @@ I'm a passionate Information Technology student focused on building scalable ful
 | Project | Description |
 |---|---|
 | 🏡 **[Ames Housing – Advanced Regression](https://github.com/Skullo-bot/ames-housing-advanced-regression)** | End-to-end ML pipeline using a **Stacking Ensemble Regressor** (XGBoost, Gradient Boosting, Ridge) to predict real estate prices, complete with structural validation and diagnostic charts. |
-| 📦 **[Gudang Damar – Warehouse Management](https://github.com/Skullo-bot/Gudang-Damar-Aplikasi-Management-Gudang---TUBES-PBO)** | Full-stack local web application for streamlined inventory control, stock management, and structured logistics tracking. |
-| 🔍 **[Algorithm Analysis – License Plate Search](https://github.com/Skullo-bot/TUBES-AKA_IF-47-05_Kelompok-apaAdanya)** | Core computer science study benchmarking Iterative vs. Recursive algorithm efficiency over massive vehicle databases. |
+
 
 ## 📊 GitHub Stats
 
