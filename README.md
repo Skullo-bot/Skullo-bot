@@ -30,14 +30,26 @@ I am a passionate technology student focused on building scalable full-stack app
 
 ---
 
-### 📊 GitHub Trophies & Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Skullo-bot&show_icons=true&theme=radical&rank_icon=github" alt="Skullo-bot's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skullo-bot&layout=compact&theme=radical" alt="Top Languages" width="48%" />
-</p>
+### 🌟 Featured Repositories
+
+* **🏡 [Ames Housing Advanced Regression](https://github.com/Skullo-bot/ames-housing-advanced-regression):** An advanced end-to-end Machine Learning pipeline utilizing a Stacking Ensemble Regressor (XGBoost, Gradient Boosting, Ridge) to predict real estate prices, complete with structural validation and diagnostic charts.
+
+
+### 📊 GitHub Stats
+
+![Skullo-bot's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Skullo-bot&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=Skullo-bot&layout=compact&theme=radical)
 
 ---
 
 ### 📫 Connect with Me
-* **GitHub:** [github.com/Skullo-bot](https://github.com/Skullo-bot)
-* **Email:** fadhilabith@gmail.com
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/fadhil-abithyasa-effendi/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:fadhilabith@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
