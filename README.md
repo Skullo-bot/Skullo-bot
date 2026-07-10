@@ -12,7 +12,7 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a passionate Information Technology student focused on building scalable full-stack applications and engineering predictive machine learning pipelines. I enjoy bridging the gap between clean code architecture and advanced data diagnostics to solve real-world problems — from production-ready web platforms to predictive models that turn raw data into decisions.
+--I'm a passionate Information Technology student focused on building scalable full-stack applications and engineering predictive machine learning pipelines. I enjoy bridging the gap between clean code architecture and advanced data diagnostics to solve real-world problems — from production-ready web platforms to predictive models that turn raw data into decisions.
 
 ## 🚀 What I Do
 
