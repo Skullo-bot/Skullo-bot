@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,100:fe428e&height=180&section=header&text=Fadhil%20Abithyasa%20Effendi&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%" alt="header banner"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FE428E&center=true&vCenter=true&width=600&lines=iiInformation+Technology+Student+%40+Telkom+University;Full-Stack+Developer;Data+Science+%26+Big+Data+Enthusiast;Building+Scalable+Solutions+with+Clean+Code" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FE428E&center=true&vCenter=true&width=600&lines=Informatics+Student+%40+Telkom+University;Full-Stack+Developer;Data+Science+%26+Big+Data+Enthusiast;Building+Scalable+Solutions+with+Clean+Code" alt="Typing SVG"/>
 </a>
 
 </div>
